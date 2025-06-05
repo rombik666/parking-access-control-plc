@@ -75,13 +75,13 @@
 ## 📷 Диаграммы
 
 ### Контекстная диаграмма
-![context](diagrams/context.png)
+![context](context_dia.png)
 
 ### Базовый сценарий
-![base-scenario](diagrams/base_scenario.png)
+![base-scenario](diagrams/seq_dia.png)
 
 ### Архитектура
-![architecture](diagrams/architecture.png)
+![architecture](diagrams/arch_dia.png)
 
 ---
 
