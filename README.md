@@ -65,10 +65,10 @@
 ![context](context_dia.png)
 
 ### Базовый сценарий
-![base-scenario](diagrams/seq_dia.png)
+![base-scenario](seq_dia.png)
 
 ### Архитектура
-![architecture](diagrams/arch_dia.png)
+![architecture](arch_dia.png)
 
 ---
 
